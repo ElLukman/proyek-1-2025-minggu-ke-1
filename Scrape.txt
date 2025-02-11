@@ -1,0 +1,26 @@
+Heading Utama: 
+                                    Hola!
+
+H1: 
+                                    Hola!
+
+H1:  My Skills 
+H2: 
+                                    Gua El Lukman
+
+H2:  Experience 
+H3: 
+                                    | AI and Cybersecurity Enthusiast with a Passion for Innovation
+
+H3:
+                                About me...
+
+H3: Contact Me:
+Link Navigasi: # - Lukman Ahmad | Web Profile
+Link Navigasi: #home - Home
+Link Navigasi: #about - About
+Link Navigasi: #experience - Experience
+Link Navigasi: #skills - Skills
+Link Navigasi: #contact - Contact
+Link Navigasi: #data_scrapping - Data Scrapping
+
